@@ -1,9 +1,13 @@
-/* Example code for Software Systems at Olin College.
-
-Copyright 2014 Allen Downey
-License: Creative Commons Attribution-ShareAlike 3.0
-
-*/
+/* find_track.c
+ * ------------
+ * Nick Francisci
+ *
+ * A program which searches through a set of 'music tracks'
+ * via a regex search.
+ *
+ * Based on example code (c) 2014 Allen Downey
+ * License: Creative Commons Attribution-ShareAlike 3.0
+ */
 
 #include <stdio.h>
 #include <stdlib.h>
